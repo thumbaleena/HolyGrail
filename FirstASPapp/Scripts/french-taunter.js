@@ -9,4 +9,5 @@ quotes.push("I'm French. Why do you think I have this outrageous accent, you sil
 function taunt() {
     var quote = quotes[Math.floor(Math.random() * quotes.length)];
     alert(quote);
+    quote = ("");
 }
