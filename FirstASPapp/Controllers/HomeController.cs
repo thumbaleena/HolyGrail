@@ -24,7 +24,7 @@ namespace FirstASPapp.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Just kidding.  No one here but Tim the Enchanter.";
+            ViewBag.Message = "FOOLED YOU. No help here. Just look at the bones!";
 
             return View();
         }
